@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Subtitle Text Formatter MK.2</title>
+    <title>Unity WebGL Player | mk2_subtitle_editor</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
@@ -20,7 +20,7 @@
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">Subtitle Text Formatter MK.2</div>
+        <div id="unity-build-title">mk2_subtitle_editor</div>
       </div>
     </div>
     <script>
@@ -56,15 +56,15 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/web.loader.js";
+      var loaderUrl = buildUrl + "/webbb.loader.js";
       var config = {
-        dataUrl: buildUrl + "/web.data",
-        frameworkUrl: buildUrl + "/web.framework.js",
-        codeUrl: buildUrl + "/web.wasm",
+        dataUrl: buildUrl + "/webbb.data",
+        frameworkUrl: buildUrl + "/webbb.framework.js",
+        codeUrl: buildUrl + "/webbb.wasm",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "NelsonLAN's Studio",
-        productName: "Subtitle Text Formatter MK.2",
-        productVersion: "alpha 0.01",
+        companyName: "DefaultCompany",
+        productName: "mk2_subtitle_editor",
+        productVersion: "alpha 1.1",
         showBanner: unityShowBanner,
       };
 
@@ -83,11 +83,13 @@
         meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
         document.getElementsByTagName('head')[0].appendChild(meta);
         container.className = "unity-mobile";
-        canvas.className = "unity-mobile";
 
         // To lower canvas resolution on mobile devices to gain some
         // performance, uncomment the following line:
         // config.devicePixelRatio = 1;
+
+        canvas.style.width = window.innerWidth + 'px';
+        canvas.style.height = window.innerHeight + 'px';
 
         unityShowBanner('WebGL builds are not supported on mobile devices.');
       } else {
