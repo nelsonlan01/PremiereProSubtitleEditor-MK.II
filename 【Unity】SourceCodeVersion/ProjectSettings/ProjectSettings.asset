@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: mk2_subtitle_editor
+  companyName: NelsonLAN's Team
+  productName: PremiereProSubtitleEditor-MK.II
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
@@ -134,7 +134,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: alpha 1.1
+  bundleVersion: Release 1.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
