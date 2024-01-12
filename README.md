@@ -8,3 +8,12 @@ Premiere Pro  Video subtitle adding tool MK.II is 2nd of tool that Nelson develo
 
 Special Thanks to repo, which make things done:
   - greggman/unity-webgl-copy-and-paste (https://github.com/greggman/unity-webgl-copy-and-paste)
+
+
+
+
+<br>
+
+You are visitor: 
+
+![Visitor Count](https://profile-counter.glitch.me/nelsonlan01/count.svg)
