@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="15" original="/main/Strings" source-language="zh-HK" target-language="en" datatype="plaintext" project-id="889812" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="481" resname="1" approved="yes">
+        <source>【第⼆代上字幕⼯具使⽤⽅法】 ⽤⼾⼿冊</source>
+        <target state="final">Premiere Pro Subtitle Editor (MK.II) User Manual</target>
+        <context-group purpose="information">
+          <context context-type="source">1
+Topic</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=481</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="483" resname="2" approved="yes">
+        <source>步驟</source>
+        <target state="final">Steps</target>
+        <context-group purpose="information">
+          <context context-type="source">2
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=483</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="485" resname="3" approved="yes">
+        <source>（⼀）在文件取出文字，並在記事本(notepad)內去除格式。</source>
+        <target state="final">1. Extract and Clean: Copy your text into Notepad to remove all formatting.</target>
+        <context-group purpose="information">
+          <context context-type="source">3
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=485</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="487" resname="4" approved="yes">
+        <source>（⼆）於文檔內適當地裁剪對⽩文字的⻑度成若⼲⾏數，⾏數並沒有上限。</source>
+        <target state="final">2. Segment Text: Break the text into separate lines of appropriate length (no line limit).</target>
+        <context-group purpose="information">
+          <context context-type="source">4
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=487</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="489" resname="5" approved="yes">
+        <source>（三）把已製備的純文檔複製到左⼿邊的⽅塊內。</source>
+        <target state="final">3. Input: Paste the plain text into the left-hand text box.</target>
+        <context-group purpose="information">
+          <context context-type="source">5
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=489</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="491" resname="6" approved="yes">
+        <source>（四）播放影片，並同時按下「Start」（開始）按鈕。</source>
+        <target state="final">4. Start: Play your video and click the &quot;Start&quot; button simultaneously.</target>
+        <context-group purpose="information">
+          <context context-type="source">6
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=491</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="493" resname="7" approved="yes">
+        <source>（五）聆聽影片對⽩，在對⽩轉換期間按下「TimeStamp」(時間戳記) 按鈕。</source>
+        <target state="final">5. Sync: Listen to the dialogue and click the &quot;TimeStamp&quot; button every time the line changes.</target>
+        <context-group purpose="information">
+          <context context-type="source">7
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=493</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="495" resname="8" approved="yes">
+        <source>（六）重複以上步驟直到影片播放完成。</source>
+        <target state="final">6. Repeat: Continue until the video ends.</target>
+        <context-group purpose="information">
+          <context context-type="source">8
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=495</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="497" resname="9" approved="yes">
+        <source>（七）把右⼿邊已製成指定格式的文字，複製到空⽩記事本檔案中。把它另存為「 Premiere Pro字幕檔」(.srt)檔案格式。</source>
+        <target state="final">7. Save: Copy the formatted text from the right-hand box into a new Notepad file. Save it as an.srt file.</target>
+        <context-group purpose="information">
+          <context context-type="source">9
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=497</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="499" resname="10" approved="yes">
+        <source>（八）把.srt檔拖放到Premiere Pro 內，然後拖放到時間軸的適當的位置。再按下「OK 」以「字幕」形式匯入檔案。</source>
+        <target state="final">8. Import: Drag the.srt file into Premiere Pro and place it on the timeline. Select &quot;Subtitle&quot; when prompted and click OK.</target>
+        <context-group purpose="information">
+          <context context-type="source">10
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=499</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="501" resname="11" approved="yes">
+        <source>（九）以剪輯影片⽅式裁剪、拖放字幕時間軸。如果須要修改字體、位置、特效的話，可 使⽤「Essential Graphics」修改。</source>
+        <target state="final">9. Edit: Adjust the subtitle timing directly on the timeline. Use the &quot;Essential Graphics&quot; panel to change fonts, positions, or effects.</target>
+        <context-group purpose="information">
+          <context context-type="source">11
+Steps</context>
+          <context context-type="x-crowdin-screenshot">https://crowdin.com/s/wrap/e3h3a3f3i493v6e3k5p545l47504n45565i4255555q44305l6a6?t=501</context>
+          <context context-type="x-crowdin-label">PremiereProSubtitleEditor-MK.II (2).csv</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
